@@ -107,7 +107,3 @@ GitHub: [管理后台](https://github.com/wclimb/video-admin)
 
 预览：[vue-video](http://video.wclimb.site)
 
-手机扫描图下二维码预览
-
-![](http://www.wclimb.site/cdn/1504574571.png)
-
